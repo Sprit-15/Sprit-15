@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sprit-15
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python
+- 💊 I’m now creating my new proyect `Automad Pillbox’
 - 📫 How to reach me: eperezcomi@icloud.com
 
 <!---
